@@ -20,7 +20,6 @@ This is a **simple and fun Dice Game** developed as part of the Udemy course **"
 - Great project for practicing fundamental JavaScript concepts
 
 ## 📌 Demo
-You can add a live demo link here, for example:  
 [Play Dice Game](https://cansuuurgun.github.io/Dice-Game/)
 
 ## 📝 Author
